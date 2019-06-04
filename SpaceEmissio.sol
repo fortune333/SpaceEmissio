@@ -5,7 +5,7 @@ pragma solidity 0.4.25;
 *
 * ETH CRYPTOCURRENCY DISTRIBUTION PROJECT v 1.0
 * 
-* GitHub           - https://github.com/fortune333/Fortune333
+* GitHub           - https://github.com/fortune333/SpaceEmissio
 * 
 * 
 * 
